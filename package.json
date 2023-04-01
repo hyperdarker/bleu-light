@@ -2,7 +2,8 @@
   "name": "bleu-light",
   "displayName": "Bleu Light",
   "description": "Bleu Light is gray-bluish modified version of VS Light+ Theme",
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "icon": "./assets/logo.png",
   "publisher": "hyperdarker",
   "repository": {
     "type": "git",
