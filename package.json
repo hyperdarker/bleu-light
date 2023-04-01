@@ -1,0 +1,21 @@
+{
+  "name": "blee-light",
+  "displayName": "Bleu Light",
+  "description": "Bleu Light is gray-bluish modified version of VS Light+ Theme",
+  "version": "0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neo Paper",
+        "uiTheme": "vs",
+        "path": "./themes/light_plus.json"
+      }
+    ]
+  }
+}
