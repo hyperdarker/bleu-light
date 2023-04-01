@@ -1,8 +1,13 @@
 {
-  "name": "blee-light",
+  "name": "bleu-light",
   "displayName": "Bleu Light",
   "description": "Bleu Light is gray-bluish modified version of VS Light+ Theme",
-  "version": "0.1",
+  "version": "0.1.0",
+  "publisher": "hyperdarker",
+  "repository": {
+    "type": "git",
+    "directory": "https://github.com/hyperdarker/bleu-light.git"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
